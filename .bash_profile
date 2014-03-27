@@ -53,3 +53,6 @@ __git_complete go _git_checkout
 __git_complete gb _git_branch
 __git_complete pull _git_pull
 __git_complete push _git_push
+
+# added by Anaconda 1.9.1 installer
+export PATH="/Users/zz/anaconda/bin:$PATH"
