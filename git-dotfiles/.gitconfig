@@ -36,7 +36,7 @@
 
 [apply]
 	# Detect whitespace errors when applying a patch
-	whitespace = fix
+	# whitespace = fix
 
 [core]
 	# Use custom `.gitignore` and `.gitattributes`
@@ -98,4 +98,3 @@
 	helper = osxkeychain
 
 [heroku]
-	account = work
